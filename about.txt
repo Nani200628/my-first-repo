@@ -1,0 +1,3 @@
+Name: Konjarla Nani
+Course: BSc Data Science
+One thing I learned on GitHub: It helps in version control and collaboration.  
